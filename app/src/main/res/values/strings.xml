@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Developer_Info">Developed By\nMehedee Alam\nDept.of Computer Science &amp; Engineering\nComilla University</string>
+
+    <string name="Additional_Info">Developed By\nMehedee Alam\nDept.of Computer Science &amp; Engineering\nComilla University</string>
+
+
+
+    <string name="Intro">Tour Guide For Comilla is speciallly developed for tourist who would like to visit our beautiful city.The guide includes necessary information about all the places a tourist would like to visit during his/her trip.
+        User can find the location of a place using google map through the app. The app also provides the automatic dialling, location searching, visiting websites features.\n</string>
+</resources>

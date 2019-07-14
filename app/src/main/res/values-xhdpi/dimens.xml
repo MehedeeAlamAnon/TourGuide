@@ -1,0 +1,4 @@
+<resources>
+	<dimen name="dimen_developer_info_text_view">14sp</dimen>
+	<dimen name="introTextView">19sp</dimen>
+</resources>
